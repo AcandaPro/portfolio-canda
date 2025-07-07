@@ -1,0 +1,9 @@
+# Portfolio Antoine Canda
+
+Portfolio personnel (React + Vite + Tailwind + Docker)
+
+## Installation (local)
+
+```bash
+npm install
+npm run dev

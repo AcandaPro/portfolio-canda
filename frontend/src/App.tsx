@@ -4,7 +4,7 @@ import ProjectDetailsPage from "./components/ProjectDetailsPage";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portfolio-canda">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/projects/:slug" element={<ProjectDetailsPage />} />
